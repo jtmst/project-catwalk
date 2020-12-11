@@ -2,6 +2,8 @@
 
 This project was build out by 3 developers over the course of two weeks.  The app is built to the specifications of a 24 page business requirement document.  The primary technologies used are React (with React Hooks and custom styled components), with Express to render data from a headless API, Material UI for certain components, and CSS for general styling and custom component design.
 
+![Project Catwalk page demo](readme_assets/main.gif)
+
 ## Building and installing env
 
 First install dependencies:
