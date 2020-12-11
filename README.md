@@ -37,7 +37,8 @@ Open the file `dist/index.html` in your browser
 ## Tech Stack
 * [React](https://reactjs.org/)
 * [Node](https://nodejs.org/en/)
-* [https://aws.amazon.com/](https://aws.amazon.com/)
+* [Express](https://expressjs.com/)
+* [AWS](https://aws.amazon.com/)
 
 ## Components
 ### Product Overview
