@@ -53,4 +53,4 @@ The related products portion of the page is divided into two main components.  T
 ### Ratings and Reviews
 The ratings and reviews portion of the page consists of the ratings component to the left, and the review component to the right.  The ratings part displayed information pertaining to the selected product, including user feedback for specific item characteristics and user ratings. The review part allows the user to sort reviews by a few different methods and also to filter reviews be rating.  Additionally there is a form that allows the user to submit new reviews.
 
-![Ratings and reviews component gif](readme_assets/ratings_reviews.gif.gif)
+![Ratings and reviews component gif](readme_assets/ratings_reviews.gif)
